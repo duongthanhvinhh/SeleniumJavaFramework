@@ -1,11 +1,18 @@
-[INFO ] 29-09-2022 11:42:37 [main] Log - Launching Chrome browser ...
-[INFO ] 29-09-2022 11:42:39 [main] Log - Launching Chrome browser Successfully
-[INFO ] 29-09-2022 11:42:43 [main] Log - --------- Executing :- TC_001_LogInSuccess ---------
-[INFO ] 29-09-2022 11:42:47 [main] Log - --------- Executing :- TC_002_LogInWrongUsername ---------
-[INFO ] 29-09-2022 11:42:47 [main] Log - --------- Executing :- TC_003_LogInWrongPassword ---------
-[INFO ] 29-09-2022 11:42:47 [main] Log - --------- Executing :- TC_004_LogInEmptyUsername ---------
-[INFO ] 29-09-2022 11:42:47 [main] Log - --------- Executing :- TC_005_LogInEmptyPassword ---------
-[INFO ] 29-09-2022 11:42:48 [main] Log - Launching Chrome browser ...
-[INFO ] 29-09-2022 11:42:49 [main] Log - Launching Chrome browser Successfully
-[INFO ] 29-09-2022 11:42:53 [main] Log - --------- Executing :- TC_001_AddAndRemoveRow2 ---------
-[INFO ] 29-09-2022 11:43:02 [main] Log - --------- Executing :- TC_002_EditRow1 ---------
+[INFO ] 29-09-2022 16:44:13 [main] Log - Launching Chrome browser ...
+[INFO ] 29-09-2022 16:44:14 [main] Log - Launching Chrome browser Successfully
+[INFO ] 29-09-2022 16:44:19 [main] Log - --------- Executing :- TC_001_LogInSuccess ---------
+[INFO ] 29-09-2022 16:44:22 [main] Log - --------- Executing :- TC_002_LogInWrongUsername ---------
+[INFO ] 29-09-2022 16:44:23 [main] Log - --------- Executing :- TC_003_LogInWrongPassword ---------
+[INFO ] 29-09-2022 16:44:23 [main] Log - --------- Executing :- TC_004_LogInEmptyUsername ---------
+[INFO ] 29-09-2022 16:44:23 [main] Log - --------- Executing :- TC_005_LogInEmptyPassword ---------
+[INFO ] 29-09-2022 16:44:24 [main] Log - Launching Chrome browser ...
+[INFO ] 29-09-2022 16:44:25 [main] Log - Launching Chrome browser Successfully
+[INFO ] 29-09-2022 16:44:30 [main] Log - --------- Executing :- TC_001_AddAndRemoveRow2 ---------
+[INFO ] 29-09-2022 16:44:39 [main] Log - --------- Executing :- TC_002_EditRow1 ---------
+[INFO ] 29-09-2022 16:44:42 [main] Log - Launching Chrome browser ...
+[INFO ] 29-09-2022 16:44:43 [main] Log - Launching Chrome browser Successfully
+[INFO ] 29-09-2022 16:44:48 [main] Log - --------- Executing :- TC_001_QuestionWithFullInformation ---------
+[INFO ] 29-09-2022 16:44:53 [main] Log - --------- Executing :- TC_002_QuestionWithoutLastNameNegative ---------
+[INFO ] 29-09-2022 16:44:55 [main] Log - --------- Executing :- TC_003_QuestionWithoutfirstNameNegative ---------
+[INFO ] 29-09-2022 16:44:56 [main] Log - --------- Executing :- TC_004_QuestionWithoutEmailNegative ---------
+[INFO ] 29-09-2022 16:44:57 [main] Log - --------- Executing :- TC_005_QuestionWithoutCommentNegative ---------

@@ -81,7 +81,7 @@ public class BaseSetup {
         System.setProperty("webdriver.chrome.driver", driverpath + "chrome\\chromedriver.exe");
         ChromeOptions options = new ChromeOptions();
         options.addArguments("headless");
-        driver = new ChromeDriver(options);
+        driver = new ChromeDriver();
         driver.manage().window().maximize();
         Log.info("Launching Chrome browser Successfully");
         driver.manage().timeouts().scriptTimeout(Duration.ofSeconds(30));

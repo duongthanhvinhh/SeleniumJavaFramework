@@ -1,0 +1,11 @@
+[INFO ] 29-09-2022 11:42:37 [main] Log - Launching Chrome browser ...
+[INFO ] 29-09-2022 11:42:39 [main] Log - Launching Chrome browser Successfully
+[INFO ] 29-09-2022 11:42:43 [main] Log - --------- Executing :- TC_001_LogInSuccess ---------
+[INFO ] 29-09-2022 11:42:47 [main] Log - --------- Executing :- TC_002_LogInWrongUsername ---------
+[INFO ] 29-09-2022 11:42:47 [main] Log - --------- Executing :- TC_003_LogInWrongPassword ---------
+[INFO ] 29-09-2022 11:42:47 [main] Log - --------- Executing :- TC_004_LogInEmptyUsername ---------
+[INFO ] 29-09-2022 11:42:47 [main] Log - --------- Executing :- TC_005_LogInEmptyPassword ---------
+[INFO ] 29-09-2022 11:42:48 [main] Log - Launching Chrome browser ...
+[INFO ] 29-09-2022 11:42:49 [main] Log - Launching Chrome browser Successfully
+[INFO ] 29-09-2022 11:42:53 [main] Log - --------- Executing :- TC_001_AddAndRemoveRow2 ---------
+[INFO ] 29-09-2022 11:43:02 [main] Log - --------- Executing :- TC_002_EditRow1 ---------

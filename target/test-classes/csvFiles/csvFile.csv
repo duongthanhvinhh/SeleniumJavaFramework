@@ -1,0 +1,4 @@
+No.TC,userName,Password,MessageAfterLogin,URLAfterLogin
+1,student,Password123,Logged In Successfully,https://practicetestautomation.com/logged-in-successfully/
+2,6aa,Password123,Your username is invalid!,
+3,student,1aa,Your password is invalid!,
